@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.aba06447.css",
-    "main.js": "/static/js/main.cff6d857.js",
-    "static/media/game_over.wav": "/static/media/game_over.3894918f7585f9300350.wav",
-    "static/media/click.wav": "/static/media/click.450b31dca5ff2247781d.wav",
-    "index.html": "/index.html",
-    "main.aba06447.css.map": "/static/css/main.aba06447.css.map",
-    "main.cff6d857.js.map": "/static/js/main.cff6d857.js.map"
+    "main.css": "/reactic-tac-toe/static/css/main.aba06447.css",
+    "main.js": "/reactic-tac-toe/static/js/main.277f4562.js",
+    "static/media/game_over.wav": "/reactic-tac-toe/static/media/game_over.3894918f7585f9300350.wav",
+    "static/media/click.wav": "/reactic-tac-toe/static/media/click.450b31dca5ff2247781d.wav",
+    "index.html": "/reactic-tac-toe/index.html",
+    "main.aba06447.css.map": "/reactic-tac-toe/static/css/main.aba06447.css.map",
+    "main.277f4562.js.map": "/reactic-tac-toe/static/js/main.277f4562.js.map"
   },
   "entrypoints": [
     "static/css/main.aba06447.css",
-    "static/js/main.cff6d857.js"
+    "static/js/main.277f4562.js"
   ]
 }
